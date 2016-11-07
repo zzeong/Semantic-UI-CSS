@@ -1,0 +1,14 @@
+{
+  "name": "semantic-ui-css",
+  "description": "CSS Only distribution of Semantic UI",
+  "main": "./semantic.css",
+  "license": "MIT",
+  "homepage": "https://github.com/zzeong/Semantic-UI-CSS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
